@@ -63,9 +63,9 @@ namespace Lab1.WPF {
         /// <summary>
         ///   Ищет локализованную строку, похожую на Пока, {0}!.
         /// </summary>
-        internal static string ResBye1 {
+        internal static string ResBye {
             get {
-                return ResourceManager.GetString("ResBye1", resourceCulture);
+                return ResourceManager.GetString("ResBye", resourceCulture);
             }
         }
         
